@@ -2,9 +2,7 @@
 
 # JPA란
 
-영송 컨텍스트(entityManager, transaction 단위)
-find : 1차 캐쉬에서 먼저 뒤진다. db가 아니라, pk가 key 객체가 value형태, 같은 트랜잭션 내라면 find로 찾아온 2개의 객체가 같다.
-같은 1차 캐쉬에서 찾기 때문.
+
 
 # JPA Maven 설정
 
